@@ -183,11 +183,11 @@ jobs:
           CONFIG_PACKAGE_hd-idle=y
           CONFIG_PACKAGE_hostapd-common=y
           CONFIG_PACKAGE_hysteria=y
-          CONFIG_PACKAGE_ip6tables=y
+          #CONFIG_PACKAGE_ip6tables=y
           CONFIG_PACKAGE_iptables-mod-ipopt=y
           CONFIG_PACKAGE_iptables-mod-nat-extra=y
           CONFIG_PACKAGE_iputils-arping=y
-          CONFIG_PACKAGE_ipv6helper=y
+          #CONFIG_PACKAGE_ipv6helper=y
           CONFIG_PACKAGE_iw=y
           CONFIG_PACKAGE_iwinfo=y
           CONFIG_PACKAGE_jq=y
