@@ -183,16 +183,16 @@ jobs:
           CONFIG_PACKAGE_hd-idle=y
           CONFIG_PACKAGE_hostapd-common=y
           CONFIG_PACKAGE_hysteria=y
-          #CONFIG_PACKAGE_ip6tables=y
+          CONFIG_PACKAGE_ip6tables=y
           CONFIG_PACKAGE_iptables-mod-ipopt=y
           CONFIG_PACKAGE_iptables-mod-nat-extra=y
           CONFIG_PACKAGE_iputils-arping=y
-          #CONFIG_PACKAGE_ipv6helper=y
+          CONFIG_PACKAGE_ipv6helper=y
           CONFIG_PACKAGE_iw=y
           CONFIG_PACKAGE_iwinfo=y
           CONFIG_PACKAGE_jq=y
           CONFIG_PACKAGE_kcptun-client=y
-          CONFIG_PACKAGE_kcptun-          CONFIG=y
+          CONFIG_PACKAGE_kcptun-CONFIG=y
           CONFIG_PACKAGE_kmod-ac97=y
           CONFIG_PACKAGE_kmod-asn1-encoder=y
           CONFIG_PACKAGE_kmod-batman-adv=y
@@ -221,7 +221,7 @@ jobs:
           CONFIG_PACKAGE_kmod-fs-nfsd=y
           CONFIG_PACKAGE_kmod-fuse=y
           CONFIG_PACKAGE_kmod-ifb=y
-          CONFIG_PACKAGE_kmod-ik          CONFIG=y
+          CONFIG_PACKAGE_kmod-ikCONFIG=y
           CONFIG_PACKAGE_kmod-inet-diag=y
           CONFIG_PACKAGE_kmod-ipt-ipopt=y
           CONFIG_PACKAGE_kmod-ipt-nat-extra=y
@@ -274,7 +274,7 @@ jobs:
           CONFIG_PACKAGE_libbz2=y
           CONFIG_PACKAGE_libcap-bin=y
           CONFIG_PACKAGE_libcap-bin-capsh-shell="/bin/sh"
-          CONFIG_PACKAGE_lib          CONFIG=y
+          CONFIG_PACKAGE_libCONFIG=y
           CONFIG_PACKAGE_libdaemon=y
           CONFIG_PACKAGE_libdbus=y
           CONFIG_PACKAGE_libdevmapper=y
@@ -325,7 +325,7 @@ jobs:
           CONFIG_PACKAGE_luci-app-advanced-reboot=y
           CONFIG_PACKAGE_luci-app-aliyundrive-fuse=y
           CONFIG_PACKAGE_luci-app-aliyundrive-webdav=y
-          CONFIG_PACKAGE_luci-app-argon-          CONFIG=y
+          CONFIG_PACKAGE_luci-app-argon-CONFIG=y
           CONFIG_PACKAGE_luci-app-aria2=y
           CONFIG_PACKAGE_luci-app-baidupcs-web=y
           #CONFIG_PACKAGE_luci-app-bypass_INCLUDE_ShadowsocksR_Libev_Client is not set
@@ -463,7 +463,7 @@ jobs:
           CONFIG_PACKAGE_lxc=y
           CONFIG_PACKAGE_lxc-attach=y
           CONFIG_PACKAGE_lxc-common=y
-          CONFIG_PACKAGE_lxc-          CONFIGs=y
+          CONFIG_PACKAGE_lxc-CONFIGs=y
           CONFIG_PACKAGE_lxc-console=y
           CONFIG_PACKAGE_lxc-create=y
           CONFIG_PACKAGE_lxc-hooks=y
@@ -493,7 +493,7 @@ jobs:
           CONFIG_PACKAGE_qBittorrent-static=y
           CONFIG_PACKAGE_qos-scripts=y
           CONFIG_PACKAGE_rclone=y
-          CONFIG_PACKAGE_rclone-          CONFIG=y
+          CONFIG_PACKAGE_rclone-CONFIG=y
           CONFIG_PACKAGE_rclone-ng=y
           CONFIG_PACKAGE_rclone-webui-react=y
           CONFIG_PACKAGE_redsocks2=y
