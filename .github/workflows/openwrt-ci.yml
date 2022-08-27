@@ -407,7 +407,7 @@ jobs:
           CONFIG_PACKAGE_luci-app-uugamebooster=y
           CONFIG_PACKAGE_luci-app-verysync=y
           CONFIG_PACKAGE_luci-app-watchcat=y
-          CONFIG_PACKAGE_luci-app-wrtbwmon=y
+          CONFIG_PACKAGE_luci-app-wrtbwmon=y  
           CONFIG_PACKAGE_luci-compat=y
           CONFIG_PACKAGE_luci-i18n-adblock-zh-cn=y
           CONFIG_PACKAGE_luci-i18n-adguardhome-zh-cn=y
@@ -562,8 +562,6 @@ jobs:
           CONFIG_boost-runtime-shared=y
           CONFIG_boost-static-and-shared-libs=y
           CONFIG_boost-variant-release=y
-
-
           EOF
 
           #
