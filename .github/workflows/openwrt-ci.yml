@@ -75,7 +75,7 @@ jobs:
           # 例如:
 
           cat >> .config <<EOF
-                   CONFIG_TARGET_IMAGES_GZIP=y
+          CONFIG_TARGET_IMAGES_GZIP=y
           CONFIG_KERNEL_BUILD_USER="OpenWrt-CI"
           CONFIG_KERNEL_BUILD_DOMAIN="Azure"
           CONFIG_TARGET_x86_64=y
