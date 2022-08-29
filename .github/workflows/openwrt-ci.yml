@@ -122,7 +122,7 @@ jobs:
           CONFIG_PACKAGE_TAR_GZIP=y
           CONFIG_PACKAGE_TAR_XZ=y
           CONFIG_PACKAGE_TAR_ZSTD=y
-          #CONFIG_PACKAGE_UnblockNeteaseMusic-Go is not set
+          # CONFIG_PACKAGE_UnblockNeteaseMusic-Go is not set
           CONFIG_PACKAGE_adblock=y
           CONFIG_PACKAGE_adguardhome=y
           CONFIG_PACKAGE_aliyundrive-fuse=y
@@ -246,8 +246,8 @@ jobs:
           CONFIG_PACKAGE_kmod-regmap-core=y
           CONFIG_PACKAGE_kmod-sched-connmark=y
           CONFIG_PACKAGE_kmod-sched-core=y
-          #CONFIG_PACKAGE_kmod-shortcut-fe is not set
-          #CONFIG_PACKAGE_kmod-shortcut-fe-cm is not set
+          # CONFIG_PACKAGE_kmod-shortcut-fe is not set
+          # CONFIG_PACKAGE_kmod-shortcut-fe-cm is not set
           CONFIG_PACKAGE_kmod-sit=y
           CONFIG_PACKAGE_kmod-sound-core=y
           CONFIG_PACKAGE_kmod-sound-hda-codec-hdmi=y
@@ -328,19 +328,19 @@ jobs:
           CONFIG_PACKAGE_luci-app-argon-CONFIG=y
           CONFIG_PACKAGE_luci-app-aria2=y
           CONFIG_PACKAGE_luci-app-baidupcs-web=y
-          #CONFIG_PACKAGE_luci-app-bypass_INCLUDE_ShadowsocksR_Libev_Client is not set
-          #CONFIG_PACKAGE_luci-app-bypass_INCLUDE_ShadowsocksR_Libev_Server is not set
-          #CONFIG_PACKAGE_luci-app-bypass_INCLUDE_Shadowsocks_Libev_Client is not set
-          #CONFIG_PACKAGE_luci-app-bypass_INCLUDE_Shadowsocks_Libev_Server is not set
-          #CONFIG_PACKAGE_luci-app-bypass_INCLUDE_Simple_Obfs is not set
-          #CONFIG_PACKAGE_luci-app-bypass_INCLUDE_Socks_Server is not set
-          #CONFIG_PACKAGE_luci-app-bypass_INCLUDE_Trojan is not set
-          #CONFIG_PACKAGE_luci-app-bypass_INCLUDE_Xray is not set
+          # CONFIG_PACKAGE_luci-app-bypass_INCLUDE_ShadowsocksR_Libev_Client is not set
+          # CONFIG_PACKAGE_luci-app-bypass_INCLUDE_ShadowsocksR_Libev_Server is not set
+          # CONFIG_PACKAGE_luci-app-bypass_INCLUDE_Shadowsocks_Libev_Client is not set
+          # CONFIG_PACKAGE_luci-app-bypass_INCLUDE_Shadowsocks_Libev_Server is not set
+          # CONFIG_PACKAGE_luci-app-bypass_INCLUDE_Simple_Obfs is not set
+          # CONFIG_PACKAGE_luci-app-bypass_INCLUDE_Socks_Server is not set
+          # CONFIG_PACKAGE_luci-app-bypass_INCLUDE_Trojan is not set
+          # CONFIG_PACKAGE_luci-app-bypass_INCLUDE_Xray is not set
           CONFIG_PACKAGE_luci-app-cifs-mount=y
           CONFIG_PACKAGE_luci-app-clash=y
           CONFIG_PACKAGE_luci-app-commands=y
           CONFIG_PACKAGE_luci-app-dawn=y
-          #CONFIG_PACKAGE_luci-app-ddns is not set
+          # CONFIG_PACKAGE_luci-app-ddns is not set
           CONFIG_PACKAGE_luci-app-ddnsto=y
           CONFIG_PACKAGE_luci-app-diag-core=y
           CONFIG_PACKAGE_luci-app-diskman=y
@@ -370,10 +370,10 @@ jobs:
           CONFIG_PACKAGE_luci-app-passwall=y
           CONFIG_PACKAGE_luci-app-passwall_INCLUDE_Brook=y
           CONFIG_PACKAGE_luci-app-passwall_INCLUDE_Hysteria=y
-          #CONFIG_PACKAGE_luci-app-passwall_INCLUDE_ShadowsocksR_Libev_Client is not set
+          # CONFIG_PACKAGE_luci-app-passwall_INCLUDE_ShadowsocksR_Libev_Client is not set
           #CONFIG_PACKAGE_luci-app-passwall_INCLUDE_Shadowsocks_Libev_Server is not set
           CONFIG_PACKAGE_luci-app-passwall_INCLUDE_Shadowsocks_Rust_Client=y
-          #CONFIG_PACKAGE_luci-app-passwall_INCLUDE_Simple_Obfs is not set
+          # CONFIG_PACKAGE_luci-app-passwall_INCLUDE_Simple_Obfs is not set
           CONFIG_PACKAGE_luci-app-passwall_INCLUDE_Trojan_GO=y
           CONFIG_PACKAGE_luci-app-passwall_INCLUDE_Xray_Plugin=y
           CONFIG_PACKAGE_luci-app-pushbot=y
@@ -400,12 +400,12 @@ jobs:
           CONFIG_PACKAGE_luci-app-turboacc_INCLUDE_DNSFORWARDER=y
           CONFIG_PACKAGE_luci-app-turboacc_INCLUDE_DNSPROXY=y
           CONFIG_PACKAGE_luci-app-turboacc_INCLUDE_OFFLOADING=y
-          #CONFIG_PACKAGE_luci-app-unblockmusic is not set
-          #CONFIG_PACKAGE_luci-app-unblockmusic_INCLUDE_UnblockNeteaseMusic_Go is not set
+          # CONFIG_PACKAGE_luci-app-unblockmusic is not set
+          # CONFIG_PACKAGE_luci-app-unblockmusic_INCLUDE_UnblockNeteaseMusic_Go is not set
           CONFIG_PACKAGE_luci-app-unblockneteasemusic=y
           CONFIG_PACKAGE_luci-app-usb-printer=y
           CONFIG_PACKAGE_luci-app-uugamebooster=y
-          CONFIG_PACKAGE_luci-app-verysync=y
+          # CONFIG_PACKAGE_luci-app-verysync=y
           CONFIG_PACKAGE_luci-app-watchcat=y
           CONFIG_PACKAGE_luci-app-wrtbwmon=y  
           CONFIG_PACKAGE_luci-compat=y
