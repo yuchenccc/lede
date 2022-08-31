@@ -336,8 +336,8 @@ jobs:
           # CONFIG_PACKAGE_luci-app-bypass_INCLUDE_Xray is not set
           CONFIG_PACKAGE_luci-app-cifs-mount=y
           CONFIG_PACKAGE_luci-app-clash=y
-          CONFIG_PACKAGE_luci-app-commands=y
-          # CONFIG_PACKAGE_luci-app-ddns is not set
+          #CONFIG_PACKAGE_luci-app-commands=y
+          #CONFIG_PACKAGE_luci-app-ddns is not set
           CONFIG_PACKAGE_luci-app-ddnsto=y
           CONFIG_PACKAGE_luci-app-diag-core=y
           CONFIG_PACKAGE_luci-app-diskman=y
